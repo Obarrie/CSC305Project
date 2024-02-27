@@ -125,5 +125,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ![NANCY'S Signature] ()
 ![DIEGO'S Signature] ()
-![ABEL'S Signature] (https://github.com/Obarrie/CSC305Project/blob/main/abelSignature.png?raw=true)
+![ABEL'S Signature] (https://github.com/Obarrie/CSC305Project/blob/main/abelSignature.png)
 ![CAM'S Signature] ()
