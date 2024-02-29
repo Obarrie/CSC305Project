@@ -122,7 +122,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 ![OSMAN'S Signature](/Osmansignature.pdf)
-
 ![NANCY'S Signature] ()
 ![DIEGO'S Signature] ()
 ![ABEL'S Signature](/abelSignature.png)
