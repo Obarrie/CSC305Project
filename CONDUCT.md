@@ -121,8 +121,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-![OSMAN'S Signature](/Osmansignature.pdf)
-![NANCY'S Signature] ()
-![DIEGO'S Signature] ()
-![ABEL'S Signature](/abelSignature.png)
+![OSMAN'S Signature](/src/Osmansignature.pdf)
+![NANCY'S Signature](/src/NancysSignature.png)
+![DIEGO'S Signature]()
+![ABEL'S Signature](src/abelSignature.png)
 ![Cam's Signature](/src/cam_signature.png)
