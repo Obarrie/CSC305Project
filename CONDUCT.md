@@ -121,9 +121,9 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-![OSMAN'S Signature] ((https://github.com/Obarrie/CSC305Project/blob/main/Osmansignature.pdf)
+![OSMAN'S Signature](/Osmansignature.pdf)
 
 ![NANCY'S Signature] ()
 ![DIEGO'S Signature] ()
-![ABEL'S Signature] (https://github.com/Obarrie/CSC305Project/blob/main/abelSignature.png)
-![CAM'S Signature] ()
+![ABEL'S Signature](/abelSignature.png)
+![Cam's Signature](/src/cam_signature.png)
