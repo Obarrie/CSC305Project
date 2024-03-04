@@ -1,0 +1,1 @@
+EasyParking is a new app designed to make parking at URI fast and easy. It utilizes real-time technology and live feedback to assist users.
