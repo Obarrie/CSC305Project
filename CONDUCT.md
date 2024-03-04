@@ -1,6 +1,33 @@
-# Contributor Covenant Code of Conduct
+# CSC 305 Project - Code of Conduct
 
-## MOST IMPORTANT IS JUST COMMUNICATE WITH THE TEAM, WITH WHAT IS GOING ON. WE WILL BE FINE AS LONG AS WE DO THAT.
+## Decisions
+Decisions are made by majority agreement. If the group disagrees entirely on an issue, we will do our best to get everyone in agreement.
+
+## Attendance / Promptness
+Every member should make their best effort to attend every meeting on time. Since our group has established a precedent of good communication, we are currently not instituting penalties for missing/being late to meetings. That being said, if communication breaks down, this section of the Code may be subject to revision.
+
+## Assignments
+Assignments will be broken down into parts which each of us will take. Those who miss assignments will take the penalty to their own grade. 
+
+## Participation
+Communication is managed through a group chat. Full participation will be ensured by checking in every class with the whole group. Member strengths will be honored by allowing members to choose which part of the weekly work each of us will do.
+
+## Meeting Times
+Meetings take place Wednesdays from 8-9pm on Zoom, and can end early if we accomplish all our goals for the meeting.
+
+## Agenda and Minutes
+Cam will take notes during each meeting and share them with the group.
+
+## Conversational Courtesies
+The team will respect one anothers' voices during the Zoom meetings. If someone else is talking and you can't get a word in, use the chat function to say what you need to.
+
+## Enforcement
+Communication is key. If there's an issue you have with something, speak up! The group will do our best to make things right.
+
+----
+
+The remainder of this document is the unedited Contributor Covenant Code of Conduct.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -12,11 +39,6 @@ identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
-
-## Attendance
-
-* Please try show up to all team meetings, and if you can't please just communicate
-* Please try to be on time, a 5 minute window will be given before we start. Please communicate.
 
 ## Our Standards
 
@@ -30,7 +52,6 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
-
 
 Examples of unacceptable behavior include:
 
@@ -55,11 +76,19 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
+## Scope
+
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official email address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[uricsc305@gmail.com].
+[INSERT CONTACT METHOD].
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -75,7 +104,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
 
-**Consequence**: A private, written warning from Scrum, providing
+**Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
@@ -100,7 +129,16 @@ sustained inappropriate behavior.
 communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a report to the Product Owner.
+Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior, harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within the
+community.
 
 ## Attribution
 
@@ -120,6 +158,10 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+----
+
+# Signatures
 
 ![OSMAN'S Signature](/src/Osmansignature.pdf)
 ![NANCY'S Signature](/src/NancysSignature.png)
