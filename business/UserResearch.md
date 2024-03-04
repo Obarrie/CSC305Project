@@ -30,4 +30,18 @@ Supporting Data: Out of 177 Responses 28.2% of students said Fine Arts parking l
 
 Team Action (if any): Since most students struggle to find parking in Fine Arts we will make an application to help find parking easier for students.
 
+# Observation 4:
+
+**Observation Statement:**
+ Over 79% of students are late to class because they can't find parking
+
+**Supporting Data:**
+	When asked “Have you ever been late to class because it took too long to find parking?”
+	Out of 177 people
+140(79.1%) said yes and only 37(20.9%) said no
+
+**Team Action:**
+	Implementing the app in a way where it tells students what parking lot has empty spaces, so they don’t have to spend as much time looking for an open spot to park. Effectively help them get to class earlier on time.
+
+
 
