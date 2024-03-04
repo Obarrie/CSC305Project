@@ -163,8 +163,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 # Signatures
 
-![OSMAN'S Signature](/src/Osmansignature.pdf)
-![NANCY'S Signature](/src/NancysSignature.png)
-![DIEGO'S Signature]()
-![ABEL'S Signature](src/abelSignature.png)
-![Cam's Signature](/src/cam_signature.png)
+![All group members' signatures](/src/GroupSignatures.png)
