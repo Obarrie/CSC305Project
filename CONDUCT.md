@@ -140,6 +140,11 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
 
+## No Phone Policy
+Make team members are not on their phone during work time.
+If caught you will be asked to put away.
+If violation persists you will reported to the community leader.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
