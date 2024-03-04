@@ -87,8 +87,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the community leaders responsible for enforcement.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -162,5 +161,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 ----
 
 # Signatures
+
+> Each of our signatures, originally uploaded by each of us, can be found in the src folder. They have been reduced here to one image for formatting purposes.
 
 ![All group members' signatures](/src/GroupSignatures.png)
