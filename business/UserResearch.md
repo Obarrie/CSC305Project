@@ -23,3 +23,11 @@ Many students are willing to use an application that would help out in finding p
 **Team Action:**
 We are working on creating an application that would help students find parking quickly and efficiently by determining the traffic of the parking lot and the available parking lots students could park in. 
 
+# Observation 3:
+Observation Statement: Which Parking lot do commuting students usually park in
+
+Supporting Data: Out of 177 Responses 28.2% of students said Fine Arts parking lot is their main choice which is where our project is based on.
+
+Team Action (if any): Since most students struggle to find parking in Fine Arts we will make an application to help find parking easier for students.
+
+
