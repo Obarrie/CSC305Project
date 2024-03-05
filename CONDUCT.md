@@ -1,7 +1,9 @@
 # CSC 305 Project - Code of Conduct
 
-## Phone Policy
-No phones will be utilized within the classroom, except for the explicit purpose of communicating with absent group members.
+## No Phone Policy
+Make team members are not on their phone during work time.
+If caught you will be asked to put away.
+If violation persists you will reported to the community leader.
 
 ## Decisions
 Decisions are made by majority agreement. If the group disagrees entirely on an issue, we will do our best to get everyone in agreement.
@@ -142,11 +144,6 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
-
-## No Phone Policy
-Make team members are not on their phone during work time.
-If caught you will be asked to put away.
-If violation persists you will reported to the community leader.
 
 ## Attribution
 
