@@ -43,5 +43,13 @@ Team Action (if any): Since most students struggle to find parking in Fine Arts 
 **Team Action:**
 	Implementing the app in a way where it tells students what parking lot has empty spaces, so they don’t have to spend as much time looking for an open spot to park. Effectively help them get to class earlier on time.
 
+# Observation 5:
 
+**Observation Statement:**
+Many students struggle finding parking as a commuter. Almost half of the students struggle every day with 42.9%.
 
+**Supporting Data:**
+Out of 177 responses, 42.9% struggle every day, and 26% most days, 22% some days, and only 9% of the students find parking easily.
+
+**Team Action:**
+Since most students struggle finding parking on campus, we propose to develop a way to find the next available lot closest to the hall you are going to.
