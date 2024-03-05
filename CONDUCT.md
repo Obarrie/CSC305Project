@@ -1,5 +1,8 @@
 # CSC 305 Project - Code of Conduct
 
+## Phone Policy
+No phones will be utilized within the classroom, except for the explicit purpose of communicating with absent group members.
+
 ## Decisions
 Decisions are made by majority agreement. If the group disagrees entirely on an issue, we will do our best to get everyone in agreement.
 
@@ -16,7 +19,7 @@ Communication is managed through a group chat. Full participation will be ensure
 Meetings take place Wednesdays from 8-9pm on Zoom, and can end early if we accomplish all our goals for the meeting.
 
 ## Agenda and Minutes
-Cam will take notes during each meeting and share them with the group.
+Each group member will share any notes we take from the meeting with each other.
 
 ## Conversational Courtesies
 The team will respect one anothers' voices during the Zoom meetings. If someone else is talking and you can't get a word in, use the chat function to say what you need to.
