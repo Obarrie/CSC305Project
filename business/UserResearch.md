@@ -28,7 +28,7 @@ Observation Statement: Which Parking lot do commuting students usually park in
 
 Supporting Data: Out of 177 Responses 28.2% of students said Fine Arts parking lot is their main choice which is where our project is based on.
 
-Team Action (if any): Since most students struggle to find parking in Fine Arts we will make an application to help find parking easier for students.
+Team Action (if any): Since most students struggle to find parking in Fine Arts we will make an application to help find parking easier for this portion of students and will continue if App successful.
 
 # Observation 4:
 
