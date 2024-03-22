@@ -4,7 +4,7 @@
 
  - Adoption - Once we have added a new feature, we will check the firebase for an increase of accounts being made. We would also add a couple of questions on the app for users to give feedback if the adoption improved the app.
 
- - DAU -
+ - DAU - We would go into firebase to check the number of logins into the application daily. 
 
  - Retention -
 
