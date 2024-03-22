@@ -6,7 +6,6 @@
 
  - DAU - To monitor DAU, a common practice is to utilize platforms like Firebase, which offer analytics tools to track user activity. By accessing Firebase, we can view detailed reports that provide information on the number of logins and other user interactions within our application on a daily basis. This data is essential for understanding user behavior, identifying trends, and making informed decisions to improve the user experience and drive growth.
 
-
- - Retention -
+ - Retention - Track the percentage of users who continue to actively use the app over time. This can be measured by monitoring the number of recurring users who open the app on a daily or weekly basis after their initial download and registration. Also monitor the adoption and usage of specific features within the app. If users frequently interact with core features like finding and saving parking locations, it suggests they find value in the app and are more likely to retain it.
 
  - CTR for completion of the Golden Path -
