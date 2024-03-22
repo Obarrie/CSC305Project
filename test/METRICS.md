@@ -4,7 +4,8 @@
 
  - Adoption - Once we have added a new feature, we will check the firebase for an increase of accounts being made. We would also add a couple of questions on the app for users to give feedback if the adoption improved the app.
 
- - DAU - We would go into firebase to check the number of logins into the application daily. 
+ - DAU - To monitor DAU, a common practice is to utilize platforms like Firebase, which offer analytics tools to track user activity. By accessing Firebase, we can view detailed reports that provide information on the number of logins and other user interactions within our application on a daily basis. This data is essential for understanding user behavior, identifying trends, and making informed decisions to improve the user experience and drive growth.
+
 
  - Retention -
 
