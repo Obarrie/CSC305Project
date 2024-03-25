@@ -8,4 +8,4 @@
 
  - Retention - Track the percentage of users who continue to actively use the app over time. This can be measured by monitoring the number of recurring users who open the app on a daily or weekly basis after their initial download and registration. Also monitor the adoption and usage of specific features within the app. If users frequently interact with core features like finding and saving parking locations, it suggests they find value in the app and are more likely to retain it.
 
- - CTR for completion of the Golden Path -
+ - CTR for completion of the Golden Path - We will track visits to each screen along our Golden Path, as well as each event along our Golden Path that does not involve changing screen. We can measure success rate based on the ratio of users that finish the Golden Path (triggering the final tracker).
