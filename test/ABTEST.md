@@ -48,3 +48,18 @@ A: A list view that displays parking lots. Users can swipe to get directions to 
 
 B: A map view that immediately shows the availability of each parking lot without requiring any clicks. Users can see a preview of the lots and their respective availability at a glance.
 
+
+## A/B Test Name: Source Parking Data from Users
+
+* User Story Number: #5
+* Metric (from the HEART grid): Task Success
+  
+* Hypothesis: Our app succeeds if our users provide us with parking data to pass onto others, so our methods of sourcing this data must be good to get as much high quality data as we can. One concern is that users will simply shut off the app and not provide us with traffic data once they reach a parking lot. We can attempt to incentivize data collection by gamifying it.
+
+* Experiment: The experiment is activated through a toggleable setting. This will enable all users who wish to participate to do so, and will demonstrate if gamifying our app increases user data collection while not forcing users one way or another.
+
+* Variations:
+
+A: The app shows (using our analytics) the amount of users the data you sourced has helped. There is a leaderboard showing the most helpful users which resets on timed intervals, and the app tells you your ranking every time you submit parking data.
+
+B: The app does not show any information relating to the amount of users you helped / your helpfulness ranking.
