@@ -63,3 +63,20 @@ B: A map view that immediately shows the availability of each parking lot withou
 A: The app shows (using our analytics) the amount of users the data you sourced has helped. There is a leaderboard showing the most helpful users which resets on timed intervals, and the app tells you your ranking every time you submit parking data.
 
 B: The app does not show any information relating to the amount of users you helped / your helpfulness ranking.
+
+
+## A/B Test Name: Log in preference 
+A/B Test Name: Sign-in Method Experiment 
+User Story Number: #1
+Metric (from the HEART grid): Adoption
+
+Hypothesis: We aim to improve user adoption by simplifying the sign-in process. Our observation shows that many users have different choices when signing in which can be viewed as the bottle-neck. We hypothesize that offering users the choice to sign in with either email or phone number will reduce preference issues and increase sign-in completion rates.
+
+Experiment: Setup: Allocate 50% of the user base to the experimental group, while the remaining 50% serves as the control group. Users in the experiment group will see the option to sign in with either email or phone number, whereas users in the control group will continue to see the traditional email sign-in option only. This setup allows for a direct comparison between the two sign-in methods. Tracking: Utilize Firebase Analytics to track key metrics such as sign-in completion rates, time spent on sign-in screens, and user drop-off points within the sign-in flow. Set up custom event tracking to monitor user interactions with each sign-in method, enabling us to measure the effectiveness of the experiment accurately.
+
+Variations:
+Control Group (Traditional Email Sign-in):
+Users encounter the standard email sign-in form upon accessing the sign-in screen.
+Experiment Group (Email or Phone Number Sign-in):
+Users are presented with the option to sign in using either their email address or phone number.
+
