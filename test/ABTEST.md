@@ -33,3 +33,16 @@ Variations:
 * Variation B: Leaving parking lot notification with an indirect question: "Is the parking lot full?"
 Both variations will include options for users to respond with "Yes" or "No" and will provide an opportunity for users to provide additional feedback if desired. Diagrams and mockups illustrating the notification interface for both variations will be included in the experiment setup for visual reference.
 
+## A/B Test Name: Parking Lot View
+
+* User Story Number: #8
+* Metric (from the HEART grid): CTR
+
+* Hypothesis: We want to give the user the option to choose how they view the parking lots. Option A is a list view, presenting the names of each lot along with a picture of it. The user will be able to swipe left or right, and get the directions of the lot. When the user clicks the name, they will be presented with the map’s availability. Option B is a map view of the lots. The map view will be a clickable preview of the lot, showing the availability of the lot by color.
+
+* Experiment: The experiment setup randomly assigns 50% of the user base to either the control group or one of two experimental groups (Option A or Option B). This random assignment ensures a fair comparison between the existing interface and the new features. This data-driven approach provides comprehensive insights to inform the decision-making process regarding the implementation of the new feature.
+
+* Variations: 
+A: A list view that displays parking lots. Users can swipe to get directions to a specific lot, and click on the lot's name to see its availability.
+B: A map view that immediately shows the availability of each parking lot without requiring any clicks. Users can see a preview of the lots and their respective availability at a glance.
+
