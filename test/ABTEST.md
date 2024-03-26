@@ -66,9 +66,11 @@ B: The app does not show any information relating to the amount of users you hel
 
 
 ## A/B Test Name: Log in preference 
-A/B Test Name: Sign-in Method Experiment 
-User Story Number: #9
-Metric (from the HEART grid): Adoption
+- A/B Test Name: Sign-in Method Experiment 
+
+- User Story Number: #9
+
+- Metric (from the HEART grid): Adoption
 
 Hypothesis: We aim to improve user adoption by simplifying the sign-in process. Our observation shows that many users have different choices when signing in which can be viewed as the bottle-neck. We hypothesize that offering users the choice to sign in with either email or phone number will reduce preference issues and increase sign-in completion rates.
 
