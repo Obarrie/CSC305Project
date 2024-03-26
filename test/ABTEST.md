@@ -45,5 +45,6 @@ Both variations will include options for users to respond with "Yes" or "No" and
 * Variations:
 
 A: A list view that displays parking lots. Users can swipe to get directions to a specific lot, and click on the lot's name to see its availability.
+
 B: A map view that immediately shows the availability of each parking lot without requiring any clicks. Users can see a preview of the lots and their respective availability at a glance.
 
