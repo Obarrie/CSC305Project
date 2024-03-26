@@ -42,7 +42,8 @@ Both variations will include options for users to respond with "Yes" or "No" and
 
 * Experiment: The experiment setup randomly assigns 50% of the user base to either the control group or one of two experimental groups (Option A or Option B). This random assignment ensures a fair comparison between the existing interface and the new features. This data-driven approach provides comprehensive insights to inform the decision-making process regarding the implementation of the new feature.
 
-* Variations: 
+* Variations:
+
 A: A list view that displays parking lots. Users can swipe to get directions to a specific lot, and click on the lot's name to see its availability.
 B: A map view that immediately shows the availability of each parking lot without requiring any clicks. Users can see a preview of the lots and their respective availability at a glance.
 
