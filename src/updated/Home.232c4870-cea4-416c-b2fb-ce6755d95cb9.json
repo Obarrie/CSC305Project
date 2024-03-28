@@ -1,0 +1,174 @@
+{
+    "type": "Screen",
+    "translatedName": "Screen",
+    "reactType": "ViewWithProps",
+    "properties": {
+        "Height": "Fill container",
+        "Width": "Fill container",
+        "Layout": "column",
+        "Justification": "center",
+        "Alignment": "center",
+        "Visible": true,
+        "style": {
+            "marginTop": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "shadowColor": "rgba(0, 0, 0, 0)",
+            "shadowOpacity": 0,
+            "scaledShadowOpacity": 0,
+            "shadowRadius": 0,
+            "shadowOffset": {
+                "width": 0,
+                "height": 0
+            },
+            "flex": 1,
+            "alignSelf": "stretch",
+            "display": "flex",
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "ShowStatusBar": true,
+        "StatusBarStyle": "default",
+        "TranslucentStatusBar": false,
+        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "TabNavigationOptions": {
+            "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {
+            "activeTabIcon": "https://img.icons8.com/material/28/000000/home--v5.png"
+        },
+        "ScreenOrientation": "portrait",
+        "DesignerHeight": 667,
+        "DesignerWidth": 375,
+        "ResponsiveWidth": 375,
+        "navigationOptions": {
+            "tabBarVisible": true
+        },
+        "tabNavigationOptions": {
+            "activeTabIcon": "mapIcon_white.png"
+        },
+        "isSimple": true,
+        "BackgroundPicture": "background_login2.jpg",
+        "BackgroundPictureResizeMode": "cover",
+        "resizeMode": "cover"
+    },
+    "children": [
+        {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "Select A Lot",
+                "TextColor": "#FFFFFF",
+                "FontSize": 16,
+                "Font": "",
+                "CustomFont": "",
+                "BackgroundColor": "rgba(42, 53, 100, 1)",
+                "Height": 51,
+                "Width": 313,
+                "Visible": true,
+                "X": 33,
+                "Y": 40,
+                "RelativeX": 33,
+                "RelativeY": 40,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "38%",
+                    "top": "1.0494752623688155%",
+                    "display": "flex"
+                },
+                "FontBold": false,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "232c4870-cea4-416c-b2fb-ce6755d95cb9",
+                "position": "absolute",
+                "edgeOffsets": 40
+            },
+            "children": [],
+            "id": "f3f5d26c-c3ed-49a2-83a0-2c56fe94f57d",
+            "thunkableVersion": 450,
+            "name": "Hall_List_Button"
+        },
+        {
+            "type": "List Viewer",
+            "translatedName": "Simple List",
+            "reactType": "ListView",
+            "properties": {
+                "TextItems": [],
+                "TextItemsColor": "rgba(176, 176, 176, 1)",
+                "TextItemsBackgroundColor": "rgba(0,0,0,0)",
+                "TextItemsFontSize": 16,
+                "ShowArrow": true,
+                "Height": 269,
+                "Width": 313,
+                "Visible": true,
+                "X": 31,
+                "Y": 112,
+                "RelativeX": 31,
+                "RelativeY": 112,
+                "ResizeMode": "STRETCH",
+                "Justification": "center",
+                "Alignment": "center",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "36.13333333333333%",
+                    "top": "23.238380809595203%",
+                    "display": "flex",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "backgroundColor": "rgba(255, 255, 255, 1)"
+                },
+                "ParentId": "232c4870-cea4-416c-b2fb-ce6755d95cb9",
+                "position": "absolute",
+                "edgeOffsets": 112.99999999999999
+            },
+            "children": [],
+            "id": "82d32ad5-61d7-4061-8ad5-9f9bbe7595fa",
+            "thunkableVersion": 450,
+            "name": "List Of Halls"
+        }
+    ],
+    "id": "232c4870-cea4-416c-b2fb-ce6755d95cb9",
+    "thunkableVersion": 447,
+    "name": "Home"
+}
